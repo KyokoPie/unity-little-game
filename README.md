@@ -8,3 +8,5 @@
 - 文字訊息回饋
 - 加入背景音效
 - 遊戲尺寸：1280 X 720 PX。
+![image](https://github.com/KyokoPie/unity-little-game/blob/main/gameplay1.png)
+![image](https://github.com/KyokoPie/unity-little-game/blob/main/gameEnd.png)
